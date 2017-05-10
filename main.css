@@ -1,0 +1,50 @@
+body{
+    background: url("Background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-color: black;
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+#logo{
+    /*margin-left: 620px;*/
+    width: 200px;
+    height: 200px;
+}
+
+#info{    
+    text-align: center;
+    border-radius: 15%;    
+    background-color: red;    
+    width: 200px;   
+}
+
+.yellow-text{    
+    color: yellow;
+    text-shadow: 0 1px 0 #000;    
+}
+
+p{
+    margin: auto;
+}
+
+div{    
+    width: 200px;
+    margin: 30px;    
+}
+.pics{
+    display: block;
+    width: 200px;
+    /*margin: 30px;*/
+}
+
+img{
+    width: 100%;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
